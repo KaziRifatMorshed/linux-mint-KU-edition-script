@@ -9,11 +9,13 @@ this is just a note of the list of the necessary softs that one may need as a st
 - Photo Compressor:
 - File Mamager: Dolphin seems better (including plugins)
 - GUI Package Manager: Synaptic (may be...)
-- Terminal: XFCE Terminal or Konsole (RICED)
+- Terminal: WARP, XFCE Terminal or Konsole (RICED)
 - Themes:
-- Whatsapp:
-- Web Browser:
+- Whatsapp: X
+- Web Browser: Chrome, FireFox, Vivaldi, Brave
 - Telegram:
 - Messanger: Caprine
-- Media Player: VLC
-- 
+- Media Player: VLC, Amberol
+- TV: Hypnotix
+- System Monitor
+- Camera, Calendar, ToDo task
