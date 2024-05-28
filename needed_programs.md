@@ -7,15 +7,18 @@ this is just a note of the list of the necessary softs that one may need as a st
 - Text Editor: Kate or Geany (confused, geany may be better, but need to add config)
 - Photo Viewer:
 - Photo Compressor:
-- File Mamager: Dolphin seems better (including plugins)
+- File Manager: Dolphin seems better (including plugins)
 - GUI Package Manager: Synaptic (may be...)
 - Terminal: WARP, XFCE Terminal or Konsole (RICED)
 - Themes:
 - Whatsapp: X
-- Web Browser: Chrome, FireFox, Vivaldi, Brave
+- Web Browser: Chrome, Firefox, Vivaldi, Brave
 - Telegram:
-- Messanger: Caprine
+- Messenger: Caprine
 - Media Player: VLC, Amberol
 - TV: Hypnotix
 - System Monitor
 - Camera, Calendar, ToDo task
+- Cinnamon Spices
+- Edit/add desktop entries
+- Timeshift
