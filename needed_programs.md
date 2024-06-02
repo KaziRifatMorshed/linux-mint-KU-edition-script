@@ -11,7 +11,7 @@ this is just a note of the list of the necessary softs that one may need as a st
 - GUI Package Manager: Synaptic (may be...)
 - Terminal: WARP, XFCE Terminal or Konsole (RICED)
 - Themes:
-- Whatsapp: X
+- Whatsapp: X (a app which will ultimately open browser and direct to whatsapp web)
 - Web Browser: Chrome, Firefox, Vivaldi, Brave
 - Telegram:
 - Messenger: Caprine
@@ -22,3 +22,4 @@ this is just a note of the list of the necessary softs that one may need as a st
 - Cinnamon Spices
 - Edit/add desktop entries
 - Timeshift
+- Downloader: FDM, https://github.com/StefanLobbenmeier/youtube-dl-gui/releases/tag/v2.4.10 
